@@ -1,1 +1,0 @@
-import{_ as o}from"./contact-person-archived.vuevuetypescriptsetuptruelang-d1155daa.js";import"./GenderEnum-be3e89c8.js";import"./vue-343cbd91.js";import"./antd-414c101d.js";import"./index-3d3117e7.js";import"./index.vuevuetypescriptsetuptruelang-9ddc5052.js";export{o as default};
