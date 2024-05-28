@@ -1,1 +1,0 @@
-import{z as i,c as p}from"./antd-C0t5NcmN.js";var r={exports:{}};(function(s,c){(function(a,o){s.exports=o()})(p,function(){return function(a,o,n){o.prototype.isToday=function(){var t="YYYY-MM-DD",e=n();return this.format(t)===e.format(t)}}})})(r);var f=r.exports;const m=i(f);export{m as i};
