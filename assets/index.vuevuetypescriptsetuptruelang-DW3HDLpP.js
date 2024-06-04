@@ -1,1 +1,0 @@
-import{d as o,l as r,W as s,_ as t,u as c}from"./vue-Cot4Dobd.js";const d=o({__name:"index",props:{vnodes:{type:[Object,Function],required:!0}},setup(e){const n=r(e.vnodes);return(a,u)=>(s(),t(c(n)))}});export{d as _};
