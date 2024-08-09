@@ -1,0 +1,1 @@
+var E=(I=>(I.RESERVATION="預約中",I.EXECUTING="執行中",I.IS_SENT="已發送",I.RESERVATION_FAILED="預約失敗",I))(E||{}),N=(I=>(I.SENDING="發送中",I.SUCCESS="發送成功",I.FAIL="發送失敗",I.EXPIRED="發送過期",I))(N||{});export{E as S,N as a};
